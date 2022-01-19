@@ -1,0 +1,11 @@
+{
+    "token_identifier": "MYTOK-ded00d",
+    "initial_quantity": 1,
+    "nft_name": "Hello world",
+    "royalties": 500,
+    "hash": "test",
+    "attributes": "test",
+    "uri": [
+        "https://example.com"
+    ]
+}
